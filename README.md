@@ -21,7 +21,7 @@ Codes tested under the following environment:
   title = 	 {Scalable Bayesian Meta-Learning through Generalized Implicit Gradients},
   author =       {Zhang, Yilang and Li, Bingcong and Gao, Shijian and Giannakis, Georgios B.},
   booktitle = 	 {Proceedings of the 37th AAAI Conference on Artificial Intelligence},
-  volume =	{}, 
+  volume =	 {}, 
   number = 	 {},
   pages = 	 {},
   DOI = 	 {},
