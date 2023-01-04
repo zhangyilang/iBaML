@@ -100,7 +100,6 @@ if __name__ == '__main__':
     # dir
     parser.add_argument('--data-dir', type=str, default='./datasets/', help='Dataset directory')
     parser.add_argument('--model-dir', type=str, default='./models/', help='Save directory')
-    parser.add_argument('--log-dir', type=str, default='./logs/', help='Log directory')
 
     # dataset
     parser.add_argument('--dataset', type=str, default='MiniImageNet', help='Dataset')
