@@ -21,13 +21,13 @@ Scripts for reproducing the reported results can be found in `scripts.sh`. Defau
 > Y. Zhang, B. Li, S. Gao and G. B. Giannakis, "Scalable Bayesian Meta-Learning through Generalized Implicit Gradients," *Proc. of 35th AAAI Conf. on Artificial Intelligence*, Washington DC, February 7-14, 2023.
 
 ```tex
-@article{iBaML, 
+@inproceedings{iBaML, 
   title={Scalable Bayesian Meta-Learning through Generalized Implicit Gradients}, 
   volume={37}, 
   url={https://ojs.aaai.org/index.php/AAAI/article/view/26337}, 
   DOI={10.1609/aaai.v37i9.26337}, 
   number={9}, 
-  journal={Proceedings of the AAAI Conference on Artificial Intelligence}, 
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence}, 
   author={Zhang, Yilang and Li, Bingcong and Gao, Shijian and Giannakis, Georgios B.}, 
   year={2023}, 
   month={Jun.}, 
