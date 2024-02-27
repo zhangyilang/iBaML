@@ -1,4 +1,4 @@
-# iBaML
+# [AAAI 2023] iBaML
 Implementation of [Scalable Bayesian Meta-Learning through Generalized Implicit Gradients](https://ojs.aaai.org/index.php/AAAI/article/view/26337) (accepted for poster presentation at the main track of AAAI-2023). 
 
 Codes tested under the following environment:
